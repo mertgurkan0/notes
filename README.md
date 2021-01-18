@@ -7,3 +7,7 @@
 as side projects to my thesis work, I currently plan to;
   - Check out WoW Addon programming with Lua and develop a simple ingame notebook addon
   - Check out [Magenta](https://github.com/magenta/magenta) and play with ML (if possible GANs) stuff
+  
+### **18/1/21**
+
+Check out ways to gather Twitch logs data
