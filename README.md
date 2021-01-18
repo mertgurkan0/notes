@@ -11,3 +11,6 @@ as side projects to my thesis work, I currently plan to;
 ### **18/1/21**
 
 Check out ways to gather Twitch chat logs data
+Check these;
+  - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VE0IVQ
+  - https://github.com/konstantinkobs/emote-controlled
