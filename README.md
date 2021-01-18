@@ -10,4 +10,4 @@ as side projects to my thesis work, I currently plan to;
   
 ### **18/1/21**
 
-Check out ways to gather Twitch logs data
+Check out ways to gather Twitch chat logs data
