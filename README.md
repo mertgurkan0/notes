@@ -15,3 +15,7 @@ Check out ways to gather Twitch chat logs data
 Check these;
   - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VE0IVQ
   - https://github.com/konstantinkobs/emote-controlled
+
+### **10/5/21**
+
+Check out spaCy, it looks super cool
